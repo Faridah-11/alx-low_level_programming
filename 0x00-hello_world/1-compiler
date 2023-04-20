@@ -1,2 +1,2 @@
---e #!/bin/bash
---e gcc -c $CFILE
+ #!/bin/bash
+gcc -C $CFILE -o main.o
