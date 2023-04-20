@@ -1,0 +1,2 @@
+--e #!/bin/bash
+--e gcc -c $CFILE
